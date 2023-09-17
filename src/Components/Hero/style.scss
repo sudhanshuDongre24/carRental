@@ -1,7 +1,7 @@
 @use "../../styles" as *;
 
 .hero-section {
-  widows: 100%;
+  width: 100%;
   height: 97vh;
   background-color: $bg-gray;
   position: relative;
@@ -40,6 +40,10 @@
     @media (max-width: 800px) {
       text-align: center;
       align-items: center;
+    }
+
+    @media (max-width: 312px) {
+      margin-top: 12rem;
     }
 
     h4 {
