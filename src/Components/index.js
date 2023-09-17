@@ -1,0 +1,11 @@
+export { default as Hero } from "./Hero/Hero";
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as Footer } from "./Footer/Footer";
+export { default as Banner } from "./Banner/Banner";
+export { default as Download } from "./Download/Download";
+export { default as PlanTrip } from "./PlanTrip/PlanTrip";
+export { default as ChooseUs } from "./ChooseUs/ChooseUs";
+export { default as Testimonials } from "./Testimonials/Testimonials";
+export { default as Faq } from "./Faq/Faq";
+export { default as BookCar } from "./BookCar/BookCar";
+export { default as HeroPages } from "./HeroPages/HeroPages";
