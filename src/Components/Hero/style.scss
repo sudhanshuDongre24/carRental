@@ -40,10 +40,11 @@
     @media (max-width: 800px) {
       text-align: center;
       align-items: center;
+      margin-top: 10rem;
     }
 
-    @media (max-width: 312px) {
-      margin-top: 12rem;
+    @media (max-width: 300px) {
+      margin-top: 15rem;
     }
 
     h4 {
